@@ -1,2 +1,1 @@
-# kings-of-bretain
-kings of bretain
+# Kings-and-Queens-of-Bretain
